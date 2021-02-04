@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/live-weather-react/static/css/main.28aa74d5.chunk.css",
+    "main.js": "/live-weather-react/static/js/main.c25e0cb4.chunk.js",
+    "main.js.map": "/live-weather-react/static/js/main.c25e0cb4.chunk.js.map",
+    "runtime-main.js": "/live-weather-react/static/js/runtime-main.10a29853.js",
+    "runtime-main.js.map": "/live-weather-react/static/js/runtime-main.10a29853.js.map",
+    "static/js/2.3f621fb8.chunk.js": "/live-weather-react/static/js/2.3f621fb8.chunk.js",
+    "static/js/2.3f621fb8.chunk.js.map": "/live-weather-react/static/js/2.3f621fb8.chunk.js.map",
+    "index.html": "/live-weather-react/index.html",
+    "static/css/main.28aa74d5.chunk.css.map": "/live-weather-react/static/css/main.28aa74d5.chunk.css.map",
+    "static/js/2.3f621fb8.chunk.js.LICENSE.txt": "/live-weather-react/static/js/2.3f621fb8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/live-weather-react/static/media/warm.10cb6442.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10a29853.js",
+    "static/js/2.3f621fb8.chunk.js",
+    "static/css/main.28aa74d5.chunk.css",
+    "static/js/main.c25e0cb4.chunk.js"
+  ]
+}
